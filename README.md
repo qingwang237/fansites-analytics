@@ -1,7 +1,7 @@
 # Fansite Analytics
 
 ## Completed Feature 1/2/3/4
-Tested with the testsuites.
+Tested with the testsuites and provided log file.
 
 ## Python 2.7.x and Standard Libraries, NO other dependencies.
 Take good use of defaultdict of Python collections libary for counting purpose.
